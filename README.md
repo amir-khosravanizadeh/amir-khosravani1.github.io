@@ -1,2 +1,3 @@
-# amir-khosravani.github.io
+# Build settings
+markdown: kramdown
 theme: minima
