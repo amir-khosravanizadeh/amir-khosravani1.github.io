@@ -7,7 +7,7 @@ description: I am a physicist.
 
 
 # Build settings
-remote_theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
 
 
 
