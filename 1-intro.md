@@ -1,19 +1,20 @@
 ---
 title: intro
 nav: true
+layout: base
 ---
 
 # Workshop Prep
 Anything before this element will be rendered normally.
 
 ```
-<div class="begin-examples"></div>
+ttttttt
 ```
 
 And we should also tell it where the two column layout ends.
 
 ```
-<div class="end-examples"></div>
+## Section title
 ```
 
 yes.
