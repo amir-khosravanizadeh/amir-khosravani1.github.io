@@ -1,4 +1,9 @@
 ## new post
 
 here is my first post. in 
-Font *Italic* or **Bold** 
+Italic* or **Bold** 
+code `import numpy`
+
+## second post
+
+link [my Linkedin](https://www.linkedin.com/in/amir-khosravanizadeh-857a91237/?originalSubdomain=fr)
