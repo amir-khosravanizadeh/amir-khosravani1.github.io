@@ -1,7 +1,6 @@
 ---
 title: intro
 nav: true
-layout: base
 ---
 
 # Workshop Prep
