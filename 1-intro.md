@@ -3,14 +3,25 @@ title: Intro
 nav: true
 ---
 
-<div class="row">
-    <div class="col-md-6">
-        **some code block here**
-        **another code block here**
+<!DOCTYPE html>
+<html>
+  <body>
+    <div class="container">
+
+      {% assign rows = content | split:"@row" %}
+      {% for row in rows %}
+        <div class="row" id="row-{{ forloop.index }}">
+
+          {% assign columns = row | split:"@column" %}
+          {% for column in columns %}
+            <div class="col-sm-{{ 12 | divided_by:forloop.length }}">
+              {{ column }}
+            </div>
+          {% endfor %}
+
+        </div>
+      {% endfor %}
+
     </div>
-    <div class="col-md-6">
-        **some text here**
-        ##some header here
-        ###something else here
-    </div>
-</div>
+  </body>
+</html>
