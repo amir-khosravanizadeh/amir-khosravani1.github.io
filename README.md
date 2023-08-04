@@ -1,7 +1,7 @@
 # About me
 
 here is my first post. in 
-Italic* or **Bold** 
+*Italic* or **Bold** 
 code `import numpy`
 
 ## second post
