@@ -1,5 +1,4 @@
 ---
-title: intro
 nav: true
 ---
 
