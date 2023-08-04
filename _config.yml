@@ -6,3 +6,7 @@ description: aaaaa
 # Build settings
 markdown: kramdown
 theme: minima
+
+kramdon:
+  parse_block_html: true
+
