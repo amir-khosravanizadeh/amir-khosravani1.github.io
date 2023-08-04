@@ -1,9 +1,11 @@
 ---
-title: Intro
-nav: true
+layout: two_columns
+title: Cake recipe
+ingredients:
+  - name: sugar
+  - name: milk
+  - name: eggs
 ---
 
-<div class="begin-examples"></div>
-sjdskldjlsjdlsjkd ljdlsjddljsldjl lsjdlsjdlsjdlsjl lsdjlsjdlsjldj sldjlsjdlsj sljdjsldjlsjd sdjlsjdljdls
-<div class="end-examples"></div>
+Here's the "how to prepare the cake" text
 
