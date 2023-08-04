@@ -1,5 +1,4 @@
 ---
-layout: two_columns
 title: Cake recipe
 ingredients:
   - name: sugar
