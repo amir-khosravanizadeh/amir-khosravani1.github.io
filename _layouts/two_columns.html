@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="ingredients">
+    <ul>
+    {% for item in page.ingredients %}
+        <li>{{item.name}}</li>
+    {% endfor %}
+    </ul>
+</div>
+
+<div class="preparation">
+{{ content }}
+</div>  
