@@ -1,10 +1,15 @@
 ---
+layout: base
 title: Cake recipe
-ingredients:
-  - name: sugar
-  - name: milk
-  - name: eggs
 ---
+Anything before this element will be rendered normally.
 
-Here's the "how to prepare the cake" text
+```
+<div class="begin-examples"></div>
+```
 
+And we should also tell it where the two column layout ends.
+
+```
+<div class="end-examples"></div>
+```
