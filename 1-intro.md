@@ -1,7 +1,9 @@
 ---
-layout: base
-title: Cake recipe
+title: intro
+nav: true
 ---
+
+# Workshop Prep
 Anything before this element will be rendered normally.
 
 ```
@@ -13,3 +15,5 @@ And we should also tell it where the two column layout ends.
 ```
 <div class="end-examples"></div>
 ```
+
+yes.
