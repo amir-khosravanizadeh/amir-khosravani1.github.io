@@ -4,8 +4,8 @@ description: aaaaa
 
 
 # Build settings
-theme: minima
+#theme: minima
 
-kramdon:
-  parse_block_html: true
+#kramdon:
+#  parse_block_html: true
 
